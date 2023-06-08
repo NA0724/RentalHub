@@ -159,7 +159,7 @@
 body 
   {
    
-    background-image: url("background7.jpg");
+    background-image: url("../src/images/background7.jpg");
     position: relative;
     background-repeat: no-repeat;
       background-size: cover;
