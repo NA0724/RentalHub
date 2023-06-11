@@ -1,4 +1,5 @@
 # RentalHub
+##### Neha Raj & Ningchen Liang
 An application for Rental Management Office, to manage rental properties, owners and renters.This company is responsible for managing rental properties on behalf of property owners. The objective is to develop a system that supports the rental manager in effectively monitoring and organizing rental properties and lease agreements. This will be accomplished by utilizing a relational database for efficient data storage and transaction management.!
 
 
