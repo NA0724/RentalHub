@@ -61,7 +61,7 @@ An application for Rental Management Office, to manage rental properties, owners
 3.	A branch manages properties in its area, and a supervisor from that branch supervises properties of that area.
 4.	A renter with a home phone number can rent one property only once.
 
-ER Diagram
+
 ![image](https://github.com/NA0724/RentalHub/assets/115744904/cb399727-14da-4836-b16f-6280a8449e29)
 
 ## STEPS TO RUN
